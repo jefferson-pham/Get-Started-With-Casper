@@ -1,7 +1,5 @@
 # Get-Started-With-Casper
 
-# Get Started With Casper
-
 ## 1. Create and deploy a simple, smart contract with cargo casper and cargo test
 * build the contract
 ![image](https://user-images.githubusercontent.com/87713875/136832708-4be1320d-1a40-45c3-8619-8a3845d9dbdb.png)
